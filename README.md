@@ -1,11 +1,16 @@
-# laiba.dart 👋
+# Hi, I'm Laiba! 👋
 
-<div align="left">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</div>
+I am a mobile UI developer building apps with **Flutter and Dart**. I focus on creating clean layouts, smooth user experiences, and modular, reusable code architectures.
 
 ---
 
-<p align="left">
-  <a href="mailto:laibasirahh7@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-</p>
+### 🛠️ Tech Stack & Tools
+* **Language:** Dart
+* **Framework:** Flutter
+* **Backend & Database:** Firebase
+* **Tools:** Git, VS Code, Android Studio
+
+---
+
+### 📫 Connect with Me
+* 📧 Reach out via Email: laibasirahh7@gmail.com
